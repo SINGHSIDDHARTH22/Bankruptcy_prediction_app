@@ -6,13 +6,17 @@
 **Model Development:**
 
 Quantitative Analysis with Deep Learning: Engineered a sophisticated deep learning model integrating Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. This model is adept at processing and learning from complex, multidimensional financial datasets.
+
 Data Processing and Model Training: Implemented advanced data preprocessing techniques to structure vast financial datasets for model training. Utilized gradient descent and backpropagation algorithms for effective model parameter optimization.
+
 Predictive Analytics: The model is capable of analyzing historical financial data to predict potential bankruptcy scenarios, providing a crucial tool for decision-making in finance and investment.
 
 **Technology Stack:**
 
 Django: Utilizing Django for the backend development, ensuring a robust, secure, and scalable server-side architecture.
+
 React JS: Developing the frontend using React JS, creating a highly interactive and user-friendly interface.
+
 Machine Learning: Employing TensorFlow and Keras alongside Python for building and training the deep learning models.
 
 **Leadership and Team Management:**
